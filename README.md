@@ -195,18 +195,15 @@ Bu proje aşağıdaki konuları kapsamaktadır:
 - ✅ GitHub'a proje yükleme
 - ✅ Netlify ile yayına alma
 
----
+
+
+
+
+
+
+<div align="center">
 
 ## 👤 Geliştirici
 
 **Barış Kaya**
-
-[![GitHub](https://img.shields.io/badge/GitHub-profil-181717?style=flat-square&logo=github)](https://github.com/kullanici-adin)
-
----
-
-<div align="center">
-
-Eğitim projesi kapsamında geliştirilmiştir · MIT Lisansı
-
 </div>
