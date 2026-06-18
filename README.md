@@ -7,16 +7,7 @@
 Görevlerini ekle, düzenle, tamamla ve sil.  
 Veriler tarayıcında saklanır — sayfa yenilenince kaybolmaz.
 
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![License](https://img.shields.io/badge/Lisans-MIT-green?style=flat-square)
 
-[🚀 Canlı Demo](#) · [📦 İndir](#kurulum) · [🐛 Sorun Bildir](#)
-
-</div>
-
----
 
 ## ✨ Özellikler
 
