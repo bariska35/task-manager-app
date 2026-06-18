@@ -19,7 +19,7 @@ Veriler tarayıcında saklanır — sayfa yenilenince kaybolmaz.
 - 📊 **İstatistik kartı** — kaç görev var, kaçı tamamlandı
 - 📱 **Responsive tasarım** — mobil ve masaüstünde çalışır
 
----
+
 
 ## 🖼️ Ekran Görüntüsü
 
